@@ -28,11 +28,11 @@ Issue 2: Inconsistent City Names
 
 &nbsp; Column     → city
 
-&nbsp; Dirty vals → Bombay, Bengaluru, NEW DELHI
+&nbsp; Dirty vals → Bombay, Bangalore, NEW DELHI
 
 &nbsp; Count      → 6 out of 200 (3%)
 
-&nbsp; Action     → Standardise to Mumbai, Bangalore, Delhi
+&nbsp; Action     → Standardise to Mumbai, Bengaluru, Delhi
 
 
 
@@ -40,7 +40,7 @@ Issue 3: Wrong Data Type in Age
 
 &nbsp; Column     → age
 
-&nbsp; Dirty vals → "twenty three", "forty two" + 2 more
+&nbsp; Dirty vals → "twenty three", "forty two" and two more
 
 &nbsp; Count      → 4 out of 200 (2%)
 
