@@ -1,0 +1,9 @@
+*.db
+data/raw data/
+data/raw data_copy/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.vscode/
+Thumbs.db
+desktop.ini

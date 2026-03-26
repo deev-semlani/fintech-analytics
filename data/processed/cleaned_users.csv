@@ -1,0 +1,201 @@
+user_id,name,age,gender,city,employment_type,monthly_income,credit_score,signup_date,device_type
+U-10001,Kavita Yadav,28,Female,Mumbai,Freelancer,30024,575.0,2024-05-23,Android
+U-10002,Mamta Jain,48,Female,Hyderabad,Salaried,56698,627.0,2024-05-18,iOS
+U-10003,Sunil Kapoor,36,Male,Pune,Salaried,54781,786.0,2024-11-01,iOS
+U-10004,Prasad Kulkarni,33,Male,Delhi,Salaried,28463,707.0,2024-08-21,iOS
+U-10005,Naresh Pandey,25,Male,Mumbai,Salaried,42898,718.0,2024-09-24,iOS
+U-10006,Vijay Singh,25,Male,Kolkata,Daily Wage Worker,16785,567.5,2024-10-11,Android
+U-10007,Lakshmi Reddy,23,Female,Pune,Gig Worker,21850,720.0,2024-05-06,Android
+U-10008,Sonal Joshi,43,Female,Kolkata,Self-Employed,79567,663.0,2024-07-29,Android
+U-10009,Harish Pillai,33,Male,Hyderabad,Gig Worker,21954,630.0,2024-07-17,Android
+U-10010,Suresh Patel,36,Male,Pune,Gig Worker,15607,602.0,2024-06-23,Android
+U-10011,Harish Pillai,21,Male,Pune,Gig Worker,28250,623.0,2024-04-29,iOS
+U-10012,Mahesh Dubey,51,Male,Bengaluru,Salaried,22337,765.0,2024-09-09,iOS
+U-10013,Radha Pillai,41,Female,Bengaluru,Gig Worker,25035,646.0,2024-06-11,iOS
+U-10014,Geeta Shah,26,Female,Hyderabad,Salaried,56311,769.0,2024-10-22,Android
+U-10015,Sanjay Mishra,25,Male,Hyderabad,Daily Wage Worker,9489,508.0,2024-06-18,Android
+U-10016,Shyam Biswas,25,Male,Pune,Salaried,43216,739.0,2024-12-27,Android
+U-10017,Sarita Ghosh,27,Female,Mumbai,Gig Worker,33616,646.0,2024-12-31,Android
+U-10018,Divya Mehta,31,Female,Mumbai,Self-Employed,43492,540.0,2024-08-13,iOS
+U-10019,Sunil Kapoor,29,Male,Mumbai,Gig Worker,19779,669.0,2024-07-11,iOS
+U-10020,Ravi Nair,42,Male,Hyderabad,Freelancer,12037,665.0,2024-04-10,Android
+U-10021,Dinesh Shah,33,Male,Delhi,Salaried,33785,640.0,2024-05-14,Android
+U-10022,Suresh Patel,24,Male,Kolkata,Daily Wage Worker,20547,567.5,2024-11-30,iOS
+U-10023,Ganesh Rao,27,Male,Hyderabad,Gig Worker,23865,678.0,2024-07-12,Android
+U-10024,Vikas Bhat,28,Male,Chennai,Gig Worker,22236,672.0,2024-11-18,Android
+U-10025,Pramod Desai,30,Male,Mumbai,Self-Employed,16378,598.0,2024-07-22,Android
+U-10026,Rohit Verma,39,Male,Delhi,Salaried,20058,638.0,2024-12-20,iOS
+U-10027,Mukesh Agarwal,25,Male,Delhi,Daily Wage Worker,10167,626.0,2024-11-29,iOS
+U-10028,Sachin Wagh,31,Male,Delhi,Salaried,24352,710.0,2024-11-03,Android
+U-10029,Rohit Verma,33,Male,Chennai,Gig Worker,31174,646.0,2024-10-24,Android
+U-10030,Anil Gupta,22,Male,Delhi,Salaried,30465,655.0,2024-11-03,iOS
+U-10031,Ashok Ghosh,33,Male,Delhi,Salaried,47041,760.0,2024-05-21,Android
+U-10032,Geeta Shah,25,Female,Mumbai,Salaried,33491,744.0,2024-12-03,iOS
+U-10033,Rohit Verma,23,Male,Delhi,Self-Employed,15141,607.0,2024-11-19,Android
+U-10034,Kartik Iyer,48,Male,Chennai,Freelancer,43894,615.0,2024-07-21,Android
+U-10035,Vimla Bhat,50,Female,Hyderabad,Salaried,38552,718.0,2024-12-01,iOS
+U-10036,Rekha Verma,31,Female,Mumbai,Daily Wage Worker,9312,497.0,2024-05-05,Android
+U-10037,Vikas Bhat,27,Male,Mumbai,Daily Wage Worker,12033,490.0,2024-05-12,Android
+U-10038,Anita Dubey,24,Female,Pune,Daily Wage Worker,13183,532.0,2024-09-08,iOS
+U-10039,Vikas Bhat,35,Male,Mumbai,Gig Worker,31151,620.0,2024-05-08,Android
+U-10040,Varun Tripathi,28,Male,Pune,Self-Employed,22801,749.0,2024-08-14,iOS
+U-10041,Suresh Patel,24,Male,Delhi,Self-Employed,33676,679.0,2024-09-02,iOS
+U-10042,Sushma Patil,30,Female,Mumbai,Self-Employed,28173,709.0,2024-05-24,iOS
+U-10043,Manoj Tiwari,22,Male,Mumbai,Freelancer,22187,694.0,2024-07-17,Android
+U-10044,Nitin Chavan,45,Male,Chennai,Gig Worker,18650,604.0,2024-04-27,Android
+U-10045,Smita More,26,Female,Delhi,Salaried,18232,653.0,2024-08-13,iOS
+U-10046,Vandana Rao,34,Female,Hyderabad,Freelancer,40028,568.0,2024-05-09,Android
+U-10047,Girish Hegde,27,Male,Mumbai,Freelancer,53175,650.0,2024-06-05,Android
+U-10048,Umesh Chauhan,31,Male,Mumbai,Self-Employed,28767,710.0,2024-05-23,Android
+U-10049,Mamta Jain,31,Female,Bengaluru,Gig Worker,34558,600.0,2024-06-23,iOS
+U-10050,Amit Kumar,25,Male,Delhi,Freelancer,33770,645.0,2024-08-06,Android
+U-10051,Anil Gupta,51,Male,Bengaluru,Salaried,48847,737.0,2024-09-27,Android
+U-10052,Pramod Desai,38,Male,Mumbai,Gig Worker,16328,611.0,2024-05-06,Android
+U-10053,Sunil Kapoor,47,Male,Bengaluru,Gig Worker,27570,547.0,2024-05-30,Android
+U-10054,Prasad Kulkarni,44,Male,Delhi,Salaried,25104,708.0,2024-09-08,Android
+U-10055,Sushma Patil,33,Female,Mumbai,Self-Employed,73949,605.0,2024-04-23,Android
+U-10056,Rahul Sharma,46,Male,Hyderabad,Daily Wage Worker,19253,530.0,2024-10-04,Android
+U-10057,Naresh Pandey,23,Male,Pune,Self-Employed,58475,724.0,2024-09-01,iOS
+U-10058,Sachin Wagh,23,Male,Bengaluru,Self-Employed,60692,572.0,2024-07-08,Android
+U-10059,Pallavi Desai,22,Female,Chennai,Freelancer,23405,617.0,2024-10-25,iOS
+U-10060,Dinesh Shah,27,Male,Delhi,Salaried,46173,775.0,2024-09-12,Android
+U-10061,Tarun Das,28,Male,Chennai,Salaried,51500,663.0,2024-05-14,Android
+U-10062,Pushpa Chauhan,27,Female,Pune,Gig Worker,20983,646.0,2024-07-30,Android
+U-10063,Pramod Desai,40,Male,Delhi,Salaried,19600,718.0,2024-11-30,iOS
+U-10064,Ashok Ghosh,28,Male,Bengaluru,Gig Worker,28863,718.0,2024-10-14,Android
+U-10065,Santosh More,27,Male,Mumbai,Gig Worker,32532,646.0,2024-05-25,Android
+U-10066,Kiran Reddy,31,Male,Chennai,Daily Wage Worker,15611,567.5,2024-08-06,Android
+U-10067,Sanjay Mishra,24,Male,Hyderabad,Gig Worker,27404,692.0,2024-09-10,Android
+U-10068,Durga Das,39,Female,Chennai,Daily Wage Worker,14991,620.0,2024-11-15,iOS
+U-10069,Sarita Ghosh,23,Female,Hyderabad,Daily Wage Worker,12246,643.0,2024-08-20,iOS
+U-10070,Santosh More,53,Male,Delhi,Self-Employed,20077,600.0,2024-08-18,Android
+U-10071,Girish Hegde,38,Male,Mumbai,Salaried,27884,797.0,2024-06-18,Android
+U-10072,Suresh Patel,25,Male,Bengaluru,Self-Employed,36684,646.0,2024-05-02,iOS
+U-10073,Yogesh Thakur,21,Male,Kolkata,Daily Wage Worker,19395,567.5,2024-10-12,Android
+U-10074,Ramesh Sahu,40,Male,Delhi,Freelancer,37558,647.0,2024-07-22,Android
+U-10075,Harish Pillai,36,Male,Bengaluru,Daily Wage Worker,8475,583.0,2024-06-24,Android
+U-10076,Varun Tripathi,36,Male,Hyderabad,Salaried,43822,789.0,2024-04-14,Android
+U-10077,Smita More,38,Female,Mumbai,Daily Wage Worker,10977,567.5,2024-10-12,Android
+U-10078,Ashok Ghosh,23,Male,Bengaluru,Self-Employed,64887,611.0,2024-11-02,Android
+U-10079,Pankaj Jain,28,Male,Mumbai,Freelancer,15413,629.0,2024-07-24,Android
+U-10080,Vijay Singh,24,Male,Kolkata,Salaried,34205,625.0,2024-06-18,iOS
+U-10081,Pankaj Jain,43,Male,Chennai,Salaried,54960,739.0,2024-08-10,Android
+U-10082,Shivam Shukla,33,Male,Pune,Freelancer,19506,581.0,2024-09-07,Android
+U-10083,Priya Sharma,28,Female,Bengaluru,Daily Wage Worker,19097,576.0,2024-10-21,Android
+U-10084,Suresh Patel,23,Male,Pune,Gig Worker,30553,718.0,2024-09-02,Android
+U-10085,Champa Biswas,27,Female,Mumbai,Daily Wage Worker,20822,567.5,2024-12-29,Android
+U-10086,Sneha Chavan,27,Female,Mumbai,Daily Wage Worker,18609,587.0,2024-12-07,Android
+U-10087,Umesh Chauhan,36,Male,Pune,Daily Wage Worker,19588,525.0,2024-12-24,Android
+U-10088,Varun Tripathi,34,Male,Hyderabad,Freelancer,43686,727.0,2024-08-16,Android
+U-10089,Rajesh Yadav,44,Male,Delhi,Daily Wage Worker,11995,625.0,2024-10-12,Android
+U-10090,Mukesh Agarwal,30,Male,Bengaluru,Salaried,49952,686.0,2024-09-22,Android
+U-10091,Kamla Thakur,24,Female,Delhi,Daily Wage Worker,8166,528.0,2024-05-14,iOS
+U-10092,Smita More,36,Female,Hyderabad,Daily Wage Worker,20421,601.0,2024-12-08,Android
+U-10093,Rajesh Yadav,38,Male,Delhi,Salaried,44502,698.0,2024-10-06,Android
+U-10094,Sushma Patil,32,Female,Bengaluru,Self-Employed,63885,630.0,2024-11-19,Android
+U-10095,Ganesh Rao,38,Male,Delhi,Salaried,30621,757.0,2024-07-04,iOS
+U-10096,Pankaj Jain,30,Male,Delhi,Freelancer,30546,589.0,2024-08-30,iOS
+U-10097,Kiran Reddy,31,Male,Delhi,Salaried,64400,690.0,2024-04-24,Android
+U-10098,Lakshmi Reddy,29,Female,Chennai,Salaried,59803,745.0,2024-05-23,Android
+U-10099,Lakshmi Reddy,22,Female,Hyderabad,Daily Wage Worker,15216,493.0,2024-08-08,Android
+U-10100,Suresh Patel,24,Male,Bengaluru,Daily Wage Worker,9213,493.0,2024-06-17,iOS
+U-10101,Lakshmi Reddy,22,Female,Mumbai,Salaried,25762,726.0,2024-07-25,iOS
+U-10102,Tarun Das,34,Male,Hyderabad,Self-Employed,71371,649.0,2024-09-04,iOS
+U-10103,Anjali Singh,27,Female,Pune,Freelancer,18503,593.0,2024-07-18,Android
+U-10104,Sunita Devi,31,Female,Delhi,Salaried,29391,660.0,2024-04-02,Android
+U-10105,Shivam Shukla,45,Male,Hyderabad,Self-Employed,17139,720.0,2024-08-23,Android
+U-10106,Suresh Patel,26,Male,Chennai,Salaried,35337,780.0,2024-07-11,Android
+U-10107,Girish Hegde,29,Male,Delhi,Gig Worker,14882,576.0,2024-05-07,Android
+U-10108,Dinesh Shah,37,Male,Pune,Freelancer,30914,659.0,2024-09-03,Android
+U-10109,Harish Pillai,26,Male,Hyderabad,Daily Wage Worker,16090,633.0,2024-04-21,Android
+U-10110,Divya Mehta,23,Female,Pune,Salaried,19695,718.0,2024-04-11,Android
+U-10111,Naveen Krishnan,27,Male,Mumbai,Freelancer,23481,706.0,2024-11-13,Android
+U-10112,Prasad Kulkarni,25,Male,Bengaluru,Gig Worker,26112,660.0,2024-09-26,Android
+U-10113,Mahesh Dubey,47,Male,Chennai,Salaried,28539,797.0,2024-12-10,Android
+U-10114,Pallavi Desai,40,Female,Kolkata,Daily Wage Worker,8601,560.0,2024-08-08,Android
+U-10115,Vikas Bhat,34,Male,Hyderabad,Salaried,61100,738.0,2024-10-29,Android
+U-10116,Anand Menon,43,Male,Bengaluru,Gig Worker,34787,653.0,2024-04-27,iOS
+U-10117,Kartik Iyer,39,Male,Mumbai,Self-Employed,43712,664.0,2024-06-02,Android
+U-10118,Nisha Pandey,25,Female,Delhi,Freelancer,22379,543.0,2024-10-26,Android
+U-10119,Manoj Tiwari,44,Male,Hyderabad,Salaried,60448,747.0,2024-08-28,iOS
+U-10120,Usha Nair,31,Female,Bengaluru,Daily Wage Worker,15736,621.0,2024-06-14,Android
+U-10121,Shivam Shukla,40,Male,Hyderabad,Freelancer,20946,610.0,2024-10-30,Android
+U-10122,Usha Nair,45,Female,Mumbai,Self-Employed,62582,690.0,2024-12-07,iOS
+U-10123,Girish Hegde,27,Male,Hyderabad,Self-Employed,36786,679.0,2024-10-11,Android
+U-10124,Ajay Mehta,24,Male,Chennai,Salaried,55473,725.0,2024-04-23,Android
+U-10125,Radha Pillai,26,Female,Chennai,Self-Employed,40302,742.0,2024-06-17,Android
+U-10126,Sanjay Mishra,29,Male,Hyderabad,Gig Worker,20878,652.0,2024-05-22,iOS
+U-10127,Rahul Sharma,40,Male,Chennai,Salaried,44868,659.0,2024-05-09,Android
+U-10128,Naresh Pandey,42,Male,Pune,Gig Worker,23024,624.0,2024-12-30,Android
+U-10129,Mukesh Agarwal,21,Male,Hyderabad,Salaried,58465,718.0,2024-08-26,iOS
+U-10130,Sunita Devi,31,Female,Bengaluru,Salaried,59533,645.0,2024-11-14,iOS
+U-10131,Lakshmi Reddy,29,Female,Mumbai,Salaried,39258,695.0,2024-10-01,Android
+U-10132,Deepak Joshi,26,Male,Delhi,Daily Wage Worker,14751,526.0,2024-06-27,iOS
+U-10133,Varun Tripathi,24,Male,Bengaluru,Gig Worker,32384,689.0,2024-06-13,iOS
+U-10134,Ganesh Rao,28,Male,Hyderabad,Salaried,61702,718.0,2024-11-25,Android
+U-10135,Geeta Shah,47,Female,Delhi,Salaried,46949,770.0,2024-09-01,Android
+U-10136,Ganesh Rao,27,Male,Hyderabad,Self-Employed,28055,663.0,2024-05-25,iOS
+U-10137,Naveen Krishnan,31,Male,Bengaluru,Daily Wage Worker,12847,555.0,2024-04-12,Android
+U-10138,Harish Pillai,36,Male,Mumbai,Daily Wage Worker,19236,492.0,2024-12-11,Android
+U-10139,Shivam Shukla,28,Male,Bengaluru,Salaried,59721,684.0,2024-06-10,Android
+U-10140,Vijay Singh,51,Male,Bengaluru,Self-Employed,17186,727.0,2024-06-07,Android
+U-10141,Mahesh Dubey,50,Male,Kolkata,Self-Employed,26510,741.0,2024-10-05,iOS
+U-10142,Neha Agarwal,26,Female,Delhi,Salaried,34840,743.0,2024-08-30,Android
+U-10143,Manoj Tiwari,30,Male,Hyderabad,Salaried,27224,677.0,2024-10-21,iOS
+U-10144,Rajesh Yadav,27,Male,Bengaluru,Salaried,35331,736.0,2024-10-06,Android
+U-10145,Pushpa Chauhan,27,Female,Delhi,Daily Wage Worker,14242,575.0,2024-05-26,Android
+U-10146,Pankaj Jain,22,Male,Mumbai,Gig Worker,28396,696.0,2024-07-23,Android
+U-10147,Ashok Ghosh,33,Male,Chennai,Self-Employed,57548,575.0,2024-04-24,Android
+U-10148,Mukesh Agarwal,31,Male,Mumbai,Salaried,33387,654.0,2024-10-16,Android
+U-10149,Girish Hegde,22,Male,Bengaluru,Gig Worker,34322,646.0,2024-05-21,Android
+U-10150,Smita More,27,Female,Delhi,Salaried,63238,733.0,2024-11-14,iOS
+U-10151,Anil Gupta,45,Male,Chennai,Self-Employed,50682,705.0,2024-10-01,Android
+U-10152,Harish Pillai,26,Male,Delhi,Salaried,47800,718.0,2024-07-18,Android
+U-10153,Nisha Pandey,24,Female,Mumbai,Salaried,39856,652.0,2024-07-15,Android
+U-10154,Meena Gupta,30,Female,Pune,Salaried,33269,657.0,2024-04-02,Android
+U-10155,Sanjay Mishra,53,Male,Hyderabad,Salaried,29435,718.0,2024-04-14,iOS
+U-10156,Ramesh Sahu,26,Male,Delhi,Gig Worker,20609,646.0,2024-08-14,Android
+U-10157,Sachin Wagh,35,Male,Hyderabad,Salaried,22165,712.0,2024-12-19,iOS
+U-10158,Tarun Das,38,Male,Hyderabad,Salaried,58311,718.0,2024-12-23,Android
+U-10159,Amit Kumar,26,Male,Mumbai,Daily Wage Worker,21882,507.0,2024-12-08,Android
+U-10160,Suresh Patel,36,Male,Mumbai,Self-Employed,54865,663.0,2024-06-04,Android
+U-10161,Manju Sahu,28,Female,Pune,Daily Wage Worker,19667,632.0,2024-12-28,Android
+U-10162,Sunil Kapoor,34,Male,Pune,Self-Employed,21499,569.0,2024-07-20,Android
+U-10163,Pramod Desai,34,Male,Bengaluru,Self-Employed,69225,646.0,2024-05-19,Android
+U-10164,Mahesh Dubey,31,Male,Chennai,Salaried,42530,795.0,2024-11-29,Android
+U-10165,Rajesh Yadav,23,Male,Mumbai,Self-Employed,21328,635.0,2024-06-06,iOS
+U-10166,Prasad Kulkarni,41,Male,Pune,Daily Wage Worker,13400,585.0,2024-09-29,Android
+U-10167,Rohit Verma,27,Male,Delhi,Gig Worker,20238,687.0,2024-12-16,iOS
+U-10168,Pankaj Jain,25,Male,Delhi,Salaried,40945,714.0,2024-05-29,Android
+U-10169,Sonal Joshi,22,Female,Bengaluru,Daily Wage Worker,20573,637.0,2024-04-14,iOS
+U-10170,Durga Das,33,Female,Chennai,Salaried,19897,799.0,2024-09-06,Android
+U-10171,Rahul Sharma,35,Male,Delhi,Salaried,55114,637.0,2024-06-12,Android
+U-10172,Priya Sharma,21,Female,Mumbai,Freelancer,26098,656.0,2024-09-22,iOS
+U-10173,Dinesh Shah,31,Male,Chennai,Self-Employed,65910,692.0,2024-05-14,Android
+U-10174,Ravi Nair,26,Male,Kolkata,Gig Worker,11630,609.0,2024-11-13,Android
+U-10175,Mukesh Agarwal,34,Male,Pune,Self-Employed,42143,733.0,2024-12-19,Android
+U-10176,Shyam Biswas,25,Male,Mumbai,Self-Employed,59447,664.0,2024-12-26,Android
+U-10177,Vijay Singh,35,Male,Delhi,Self-Employed,79516,541.0,2024-07-14,Android
+U-10178,Sanjay Mishra,28,Male,Kolkata,Gig Worker,36969,621.0,2024-12-11,Android
+U-10179,Kiran Reddy,47,Male,Mumbai,Self-Employed,49903,668.0,2024-09-29,Android
+U-10180,Vijay Singh,24,Male,Bengaluru,Salaried,48130,700.0,2024-11-06,iOS
+U-10181,Sachin Wagh,28,Male,Delhi,Salaried,44544,718.0,2024-09-14,iOS
+U-10182,Vandana Rao,24,Female,Chennai,Self-Employed,20775,567.0,2024-08-03,Android
+U-10183,Pallavi Desai,46,Female,Hyderabad,Salaried,43936,706.0,2024-07-23,Android
+U-10184,Suresh Patel,43,Male,Hyderabad,Gig Worker,13736,589.0,2024-09-26,Android
+U-10185,Durga Das,26,Female,Pune,Salaried,33484,718.0,2024-08-10,iOS
+U-10186,Shivam Shukla,34,Male,Mumbai,Freelancer,16938,737.0,2024-12-09,Android
+U-10187,Shobha Wagh,40,Female,Pune,Self-Employed,59638,684.0,2024-09-13,Android
+U-10188,Deepak Joshi,32,Male,Bengaluru,Salaried,48731,697.0,2024-08-19,iOS
+U-10189,Ramesh Sahu,31,Male,Hyderabad,Salaried,38342,629.0,2024-04-30,Android
+U-10190,Suresh Patel,26,Male,Pune,Salaried,58305,718.0,2024-11-23,iOS
+U-10191,Champa Biswas,23,Female,Kolkata,Salaried,47473,766.0,2024-07-06,Android
+U-10192,Radha Pillai,45,Female,Hyderabad,Salaried,22054,707.0,2024-05-14,iOS
+U-10193,Rekha Verma,45,Female,Mumbai,Salaried,64374,732.0,2024-12-25,iOS
+U-10194,Rekha Verma,34,Female,Bengaluru,Self-Employed,75157,644.0,2024-09-21,Android
+U-10195,Anjali Singh,28,Female,Pune,Gig Worker,20965,646.0,2024-05-19,iOS
+U-10196,Pallavi Desai,28,Female,Delhi,Salaried,61028,774.0,2024-06-16,Android
+U-10197,Prasad Kulkarni,36,Male,Chennai,Salaried,40925,787.0,2024-10-18,iOS
+U-10198,Kamla Thakur,45,Female,Mumbai,Salaried,51629,742.0,2024-09-16,iOS
+U-10199,Kamla Thakur,44,Female,Kolkata,Gig Worker,27248,646.0,2024-11-03,iOS
+U-10200,Amit Kumar,38,Male,Bengaluru,Self-Employed,26813,627.0,2024-12-05,iOS

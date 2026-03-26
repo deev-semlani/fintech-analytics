@@ -1,0 +1,405 @@
+collection_id,loan_id,contact_date,contact_mode,response,promise_to_pay_date,resolved
+C-FK-8001,L-FK-2024-1005,2024-07-22,WhatsApp,No Response,,False
+C-FK-8002,L-FK-2024-1005,2024-08-02,SMS,No Response,,False
+C-FK-8003,L-FK-2024-1005,2024-08-07,Email,Already Paid,,False
+C-FK-8004,L-FK-2024-1005,2024-08-06,SMS,No Response,,False
+C-FK-8005,L-FK-2024-1005,2024-09-04,Email,Already Paid,,False
+C-FK-8006,L-FK-2024-1006,2024-06-08,Email,Promise to Pay,2024-06-14,False
+C-FK-8007,L-FK-2024-1007,2024-06-23,Field Visit,Disputed,,False
+C-FK-8008,L-FK-2024-1007,2024-06-29,Email,Requested Extension,,False
+C-FK-8009,L-FK-2024-1013,2024-08-02,Email,Promise to Pay,2024-08-12,False
+C-FK-8010,L-FK-2024-1013,2024-08-14,Field Visit,Promise to Pay,2024-08-25,False
+C-FK-8011,L-FK-2024-1013,2024-08-22,Email,Already Paid,,False
+C-FK-8012,L-FK-2024-1014,2024-06-18,WhatsApp,No Response,,False
+C-FK-8013,L-FK-2024-1014,2024-07-01,WhatsApp,Already Paid,,False
+C-FK-8014,L-FK-2024-1014,2024-07-16,Email,Disputed,,False
+C-FK-8015,L-FK-2024-1014,2024-07-24,Field Visit,Promise to Pay,2024-08-02,False
+C-FK-8016,L-FK-2024-1014,2024-08-13,Email,Already Paid,,False
+C-FK-8017,L-FK-2024-1015,2024-07-23,Email,Promise to Pay,2024-08-06,True
+C-FK-8018,L-FK-2024-1015,2024-08-06,SMS,No Response,,False
+C-FK-8019,L-FK-2024-1015,2024-08-02,Field Visit,Disputed,,False
+C-FK-8020,L-FK-2024-1015,2024-08-13,SMS,No Response,,False
+C-FK-8021,L-FK-2024-1018,2025-03-04,WhatsApp,No Response,,False
+C-FK-8022,L-FK-2024-1018,2025-03-08,Field Visit,No Response,,False
+C-FK-8023,L-FK-2024-1018,2025-03-20,Email,Already Paid,,False
+C-FK-8024,L-FK-2024-1018,2025-03-19,SMS,Disputed,,False
+C-FK-8025,L-FK-2024-1021,2025-01-21,Phone Call,No Response,,False
+C-FK-8026,L-FK-2024-1021,2025-02-03,Email,Already Paid,,False
+C-FK-8027,L-FK-2024-1021,2025-02-06,SMS,Already Paid,,False
+C-FK-8028,L-FK-2024-1021,2025-02-17,Phone Call,No Response,,False
+C-FK-8029,L-FK-2024-1021,2025-02-18,SMS,No Response,,False
+C-FK-8030,L-FK-2024-1022,2024-11-12,Email,Already Paid,,False
+C-FK-8031,L-FK-2024-1022,2024-11-22,Phone Call,No Response,,False
+C-FK-8032,L-FK-2024-1022,2024-12-04,SMS,Promise to Pay,2024-12-18,True
+C-FK-8033,L-FK-2024-1025,2025-02-22,Field Visit,Promise to Pay,2025-02-27,True
+C-FK-8034,L-FK-2024-1025,2025-02-26,Email,Promise to Pay,2025-03-05,False
+C-FK-8035,L-FK-2024-1025,2025-03-04,Phone Call,No Response,,False
+C-FK-8036,L-FK-2024-1025,2025-04-02,SMS,Disputed,,False
+C-FK-8037,L-FK-2024-1027,2024-12-20,Field Visit,Promise to Pay,2025-01-03,False
+C-FK-8038,L-FK-2024-1027,2024-12-26,Phone Call,Already Paid,,False
+C-FK-8039,L-FK-2024-1027,2025-01-15,Phone Call,Requested Extension,,False
+C-FK-8040,L-FK-2024-1027,2025-01-16,Email,Disputed,,False
+C-FK-8041,L-FK-2024-1028,2024-07-09,Email,No Response,,False
+C-FK-8042,L-FK-2024-1032,2024-11-16,SMS,Disputed,,False
+C-FK-8043,L-FK-2024-1032,2024-11-22,Phone Call,No Response,,False
+C-FK-8044,L-FK-2024-1034,2025-01-02,SMS,Disputed,,False
+C-FK-8045,L-FK-2024-1034,2025-01-15,SMS,No Response,,False
+C-FK-8046,L-FK-2024-1034,2025-01-10,Email,Promise to Pay,2025-01-24,False
+C-FK-8047,L-FK-2024-1034,2025-02-04,WhatsApp,No Response,,False
+C-FK-8048,L-FK-2024-1036,2025-01-02,Field Visit,Promise to Pay,2025-01-14,False
+C-FK-8049,L-FK-2024-1036,2025-01-11,Phone Call,Already Paid,,False
+C-FK-8050,L-FK-2024-1036,2025-01-14,SMS,Promise to Pay,2025-01-18,False
+C-FK-8051,L-FK-2024-1042,2024-11-13,Phone Call,Disputed,,False
+C-FK-8052,L-FK-2024-1045,2024-12-07,WhatsApp,Promise to Pay,2024-12-11,True
+C-FK-8053,L-FK-2024-1045,2024-12-20,WhatsApp,Requested Extension,,False
+C-FK-8054,L-FK-2024-1045,2024-12-13,SMS,No Response,,False
+C-FK-8055,L-FK-2024-1045,2025-01-03,Field Visit,Disputed,,False
+C-FK-8056,L-FK-2024-1050,2025-01-06,Field Visit,Requested Extension,,False
+C-FK-8057,L-FK-2024-1050,2025-01-11,Phone Call,Disputed,,False
+C-FK-8058,L-FK-2024-1050,2025-01-30,Email,Disputed,,False
+C-FK-8059,L-FK-2024-1050,2025-02-14,WhatsApp,Promise to Pay,2025-02-22,False
+C-FK-8060,L-FK-2024-1052,2024-06-15,Field Visit,No Response,,False
+C-FK-8061,L-FK-2024-1052,2024-06-27,Email,Already Paid,,False
+C-FK-8062,L-FK-2024-1052,2024-07-07,Phone Call,Promise to Pay,2024-07-18,True
+C-FK-8063,L-FK-2024-1052,2024-07-03,Field Visit,No Response,,False
+C-FK-8064,L-FK-2024-1055,2024-06-17,SMS,Already Paid,,False
+C-FK-8065,L-FK-2024-1056,2024-10-10,SMS,Promise to Pay,2024-10-18,False
+C-FK-8066,L-FK-2024-1056,2024-10-15,SMS,Already Paid,,False
+C-FK-8067,L-FK-2024-1056,2024-11-05,SMS,No Response,,False
+C-FK-8068,L-FK-2024-1056,2024-11-21,Email,Requested Extension,,False
+C-FK-8069,L-FK-2024-1056,2024-12-05,SMS,Disputed,,False
+C-FK-8070,L-FK-2024-1059,2024-11-30,Field Visit,No Response,,False
+C-FK-8071,L-FK-2024-1059,2024-12-09,Phone Call,Disputed,,False
+C-FK-8072,L-FK-2024-1059,2024-12-12,WhatsApp,Disputed,,False
+C-FK-8073,L-FK-2024-1061,2025-01-06,SMS,No Response,,False
+C-FK-8074,L-FK-2024-1061,2025-01-19,Field Visit,Promise to Pay,2025-01-31,True
+C-FK-8075,L-FK-2024-1070,2025-02-23,Phone Call,No Response,,False
+C-FK-8076,L-FK-2024-1070,2025-03-05,SMS,No Response,,False
+C-FK-8077,L-FK-2024-1070,2025-03-01,SMS,Promise to Pay,2025-03-07,False
+C-FK-8078,L-FK-2024-1072,2024-09-10,Email,Promise to Pay,2024-09-21,False
+C-FK-8079,L-FK-2024-1072,2024-09-17,Email,Promise to Pay,2024-10-01,False
+C-FK-8080,L-FK-2024-1072,2024-09-20,SMS,Requested Extension,,False
+C-FK-8081,L-FK-2024-1072,2024-10-01,Field Visit,Disputed,,False
+C-FK-8082,L-FK-2024-1072,2024-10-20,Email,Promise to Pay,2024-10-27,True
+C-FK-8083,L-FK-2024-1073,2025-04-26,Email,Already Paid,,False
+C-FK-8084,L-FK-2024-1075,2025-01-31,Field Visit,Already Paid,,False
+C-FK-8085,L-FK-2024-1075,2025-02-12,SMS,Already Paid,,False
+C-FK-8086,L-FK-2024-1076,2024-09-23,Phone Call,Already Paid,,False
+C-FK-8087,L-FK-2024-1076,2024-09-30,Field Visit,Requested Extension,,False
+C-FK-8088,L-FK-2024-1076,2024-10-03,SMS,Requested Extension,,False
+C-FK-8089,L-FK-2024-1076,2024-10-14,Email,Already Paid,,False
+C-FK-8090,L-FK-2024-1077,2025-02-08,Field Visit,Already Paid,,False
+C-FK-8091,L-FK-2024-1077,2025-02-20,Phone Call,Already Paid,,False
+C-FK-8092,L-FK-2024-1077,2025-02-24,SMS,Promise to Pay,2025-03-10,False
+C-FK-8093,L-FK-2024-1083,2024-05-25,WhatsApp,Requested Extension,,False
+C-FK-8094,L-FK-2024-1083,2024-06-04,Email,Already Paid,,False
+C-FK-8095,L-FK-2024-1084,2024-06-21,Email,Already Paid,,False
+C-FK-8096,L-FK-2024-1084,2024-06-28,Phone Call,Requested Extension,,False
+C-FK-8097,L-FK-2024-1084,2024-07-09,Phone Call,No Response,,False
+C-FK-8098,L-FK-2024-1084,2024-07-18,SMS,Requested Extension,,False
+C-FK-8099,L-FK-2024-1086,2025-03-16,WhatsApp,Disputed,,False
+C-FK-8100,L-FK-2024-1086,2025-03-27,WhatsApp,Already Paid,,False
+C-FK-8101,L-FK-2024-1090,2024-06-27,SMS,Already Paid,,False
+C-FK-8102,L-FK-2024-1091,2024-08-26,Phone Call,Disputed,,False
+C-FK-8103,L-FK-2024-1091,2024-09-09,SMS,Promise to Pay,2024-09-16,True
+C-FK-8104,L-FK-2024-1092,2024-06-06,SMS,Requested Extension,,False
+C-FK-8105,L-FK-2024-1092,2024-06-09,Phone Call,No Response,,False
+C-FK-8106,L-FK-2024-1092,2024-07-02,Email,Already Paid,,False
+C-FK-8107,L-FK-2024-1093,2024-11-17,SMS,Requested Extension,,False
+C-FK-8108,L-FK-2024-1093,2024-11-26,WhatsApp,Promise to Pay,2024-12-05,False
+C-FK-8109,L-FK-2024-1093,2024-12-09,Email,Requested Extension,,False
+C-FK-8110,L-FK-2024-1093,2024-12-23,Email,Disputed,,False
+C-FK-8111,L-FK-2024-1093,2025-01-12,Phone Call,No Response,,False
+C-FK-8112,L-FK-2024-1094,2024-10-03,Email,Promise to Pay,2024-10-10,True
+C-FK-8113,L-FK-2024-1094,2024-10-17,Phone Call,Disputed,,False
+C-FK-8114,L-FK-2024-1094,2024-10-13,Phone Call,Already Paid,,False
+C-FK-8115,L-FK-2024-1094,2024-10-15,Email,No Response,,False
+C-FK-8116,L-FK-2024-1094,2024-11-16,WhatsApp,Already Paid,,False
+C-FK-8117,L-FK-2024-1095,2024-11-26,SMS,Disputed,,False
+C-FK-8118,L-FK-2024-1095,2024-12-10,Field Visit,Promise to Pay,2024-12-16,False
+C-FK-8119,L-FK-2024-1095,2024-12-04,Field Visit,Already Paid,,False
+C-FK-8120,L-FK-2024-1095,2024-12-14,SMS,Promise to Pay,2024-12-20,False
+C-FK-8121,L-FK-2024-1097,2024-11-07,Field Visit,Already Paid,,False
+C-FK-8122,L-FK-2024-1097,2024-11-11,Email,Promise to Pay,2024-11-15,False
+C-FK-8123,L-FK-2024-1098,2024-10-04,Phone Call,Disputed,,False
+C-FK-8124,L-FK-2024-1099,2024-12-23,Phone Call,Already Paid,,False
+C-FK-8125,L-FK-2024-1099,2024-12-26,WhatsApp,No Response,,False
+C-FK-8126,L-FK-2024-1099,2024-12-29,Phone Call,Requested Extension,,False
+C-FK-8127,L-FK-2024-1099,2025-01-04,Email,Promise to Pay,2025-01-15,True
+C-FK-8128,L-FK-2024-1099,2025-02-09,WhatsApp,Requested Extension,,False
+C-FK-8129,L-FK-2024-1103,2025-03-12,Email,Requested Extension,,False
+C-FK-8130,L-FK-2024-1103,2025-03-20,WhatsApp,Disputed,,False
+C-FK-8131,L-FK-2024-1103,2025-03-28,Email,Promise to Pay,2025-04-05,True
+C-FK-8132,L-FK-2024-1103,2025-04-17,WhatsApp,No Response,,False
+C-FK-8133,L-FK-2024-1105,2024-08-03,Email,No Response,,False
+C-FK-8134,L-FK-2024-1105,2024-08-17,SMS,Already Paid,,False
+C-FK-8135,L-FK-2024-1105,2024-08-09,Phone Call,Requested Extension,,False
+C-FK-8136,L-FK-2024-1107,2024-10-06,Email,Promise to Pay,2024-10-14,False
+C-FK-8137,L-FK-2024-1107,2024-10-17,SMS,Already Paid,,False
+C-FK-8138,L-FK-2024-1107,2024-10-12,Phone Call,Disputed,,False
+C-FK-8139,L-FK-2024-1107,2024-11-14,Phone Call,Disputed,,False
+C-FK-8140,L-FK-2024-1107,2024-12-01,Email,Disputed,,False
+C-FK-8141,L-FK-2024-1109,2024-12-27,Field Visit,Already Paid,,False
+C-FK-8142,L-FK-2024-1109,2024-12-31,Email,Disputed,,False
+C-FK-8143,L-FK-2024-1112,2024-11-02,Email,No Response,,False
+C-FK-8144,L-FK-2024-1112,2024-11-09,SMS,Requested Extension,,False
+C-FK-8145,L-FK-2024-1112,2024-11-30,Field Visit,Promise to Pay,2024-12-11,True
+C-FK-8146,L-FK-2024-1112,2024-11-11,WhatsApp,Promise to Pay,2024-11-21,True
+C-FK-8147,L-FK-2024-1113,2025-03-31,Email,Promise to Pay,2025-04-10,True
+C-FK-8148,L-FK-2024-1113,2025-04-13,SMS,Requested Extension,,False
+C-FK-8149,L-FK-2024-1113,2025-04-12,Phone Call,Promise to Pay,2025-04-17,True
+C-FK-8150,L-FK-2024-1113,2025-04-12,Phone Call,Already Paid,,False
+C-FK-8151,L-FK-2024-1113,2025-04-20,Email,Disputed,,False
+C-FK-8152,L-FK-2024-1116,2025-01-15,Email,Disputed,,False
+C-FK-8153,L-FK-2024-1116,2025-01-28,SMS,No Response,,False
+C-FK-8154,L-FK-2024-1116,2025-02-06,Phone Call,Already Paid,,False
+C-FK-8155,L-FK-2024-1117,2024-12-26,Field Visit,Requested Extension,,False
+C-FK-8156,L-FK-2024-1117,2024-12-30,Email,Disputed,,False
+C-FK-8157,L-FK-2024-1117,2025-01-23,Field Visit,Already Paid,,False
+C-FK-8158,L-FK-2024-1118,2024-12-19,Phone Call,Promise to Pay,2024-12-26,False
+C-FK-8159,L-FK-2024-1118,2024-12-23,WhatsApp,No Response,,False
+C-FK-8160,L-FK-2024-1118,2025-01-16,SMS,Requested Extension,,False
+C-FK-8161,L-FK-2024-1118,2025-01-30,Field Visit,No Response,,False
+C-FK-8162,L-FK-2024-1119,2024-10-25,Field Visit,Already Paid,,False
+C-FK-8163,L-FK-2024-1119,2024-11-08,WhatsApp,No Response,,False
+C-FK-8164,L-FK-2024-1119,2024-10-31,Field Visit,Requested Extension,,False
+C-FK-8165,L-FK-2024-1120,2025-03-16,WhatsApp,Already Paid,,False
+C-FK-8166,L-FK-2024-1120,2025-03-24,Field Visit,Promise to Pay,2025-04-04,True
+C-FK-8167,L-FK-2024-1123,2025-01-28,Field Visit,No Response,,False
+C-FK-8168,L-FK-2024-1123,2025-02-07,SMS,Disputed,,False
+C-FK-8169,L-FK-2024-1127,2025-01-30,Email,Already Paid,,False
+C-FK-8170,L-FK-2024-1127,2025-02-04,WhatsApp,Requested Extension,,False
+C-FK-8171,L-FK-2024-1127,2025-02-09,Field Visit,No Response,,False
+C-FK-8172,L-FK-2024-1129,2024-11-23,WhatsApp,No Response,,False
+C-FK-8173,L-FK-2024-1129,2024-12-07,Email,Requested Extension,,False
+C-FK-8174,L-FK-2024-1129,2024-12-19,Email,Promise to Pay,2024-12-29,False
+C-FK-8175,L-FK-2024-1130,2024-11-28,SMS,Promise to Pay,2024-12-12,False
+C-FK-8176,L-FK-2024-1133,2025-01-29,Email,Already Paid,,False
+C-FK-8177,L-FK-2024-1134,2024-09-18,WhatsApp,Promise to Pay,2024-09-21,True
+C-FK-8178,L-FK-2024-1134,2024-09-27,WhatsApp,Already Paid,,False
+C-FK-8179,L-FK-2024-1134,2024-10-06,Phone Call,Already Paid,,False
+C-FK-8180,L-FK-2024-1136,2025-03-30,SMS,Disputed,,False
+C-FK-8181,L-FK-2024-1136,2025-04-13,Email,Requested Extension,,False
+C-FK-8182,L-FK-2024-1136,2025-04-07,Field Visit,Promise to Pay,2025-04-15,True
+C-FK-8183,L-FK-2024-1136,2025-04-08,Email,Disputed,,False
+C-FK-8184,L-FK-2024-1136,2025-05-21,Email,Promise to Pay,2025-06-02,False
+C-FK-8185,L-FK-2024-1138,2024-07-13,SMS,Promise to Pay,2024-07-19,True
+C-FK-8186,L-FK-2024-1138,2024-07-27,WhatsApp,No Response,,False
+C-FK-8187,L-FK-2024-1138,2024-08-10,Phone Call,Requested Extension,,False
+C-FK-8188,L-FK-2024-1143,2024-11-20,Email,Promise to Pay,2024-11-23,False
+C-FK-8189,L-FK-2024-1143,2024-11-25,Phone Call,No Response,,False
+C-FK-8190,L-FK-2024-1144,2024-09-24,Email,Requested Extension,,False
+C-FK-8191,L-FK-2024-1144,2024-09-29,SMS,Already Paid,,False
+C-FK-8192,L-FK-2024-1144,2024-09-30,SMS,No Response,,False
+C-FK-8193,L-FK-2024-1144,2024-10-21,WhatsApp,Already Paid,,False
+C-FK-8194,L-FK-2024-1144,2024-11-19,SMS,Requested Extension,,False
+C-FK-8195,L-FK-2024-1146,2024-08-06,Email,No Response,,False
+C-FK-8196,L-FK-2024-1146,2024-08-19,WhatsApp,Already Paid,,False
+C-FK-8197,L-FK-2024-1146,2024-09-01,WhatsApp,Already Paid,,False
+C-FK-8198,L-FK-2024-1146,2024-08-15,Phone Call,No Response,,False
+C-FK-8199,L-FK-2024-1148,2024-09-22,SMS,Requested Extension,,False
+C-FK-8200,L-FK-2024-1150,2024-07-24,Email,Requested Extension,,False
+C-FK-8201,L-FK-2024-1151,2025-01-19,Field Visit,No Response,,False
+C-FK-8202,L-FK-2024-1151,2025-01-24,Email,Already Paid,,False
+C-FK-8203,L-FK-2024-1151,2025-02-14,WhatsApp,Already Paid,,False
+C-FK-8204,L-FK-2024-1152,2025-02-28,Phone Call,Disputed,,False
+C-FK-8205,L-FK-2024-1152,2025-03-14,SMS,Requested Extension,,False
+C-FK-8206,L-FK-2024-1152,2025-03-18,Email,No Response,,False
+C-FK-8207,L-FK-2024-1152,2025-04-02,Field Visit,Requested Extension,,False
+C-FK-8208,L-FK-2024-1152,2025-04-09,Field Visit,No Response,,False
+C-FK-8209,L-FK-2024-1157,2025-04-03,SMS,No Response,,False
+C-FK-8210,L-FK-2024-1157,2025-04-16,SMS,No Response,,False
+C-FK-8211,L-FK-2024-1157,2025-04-27,WhatsApp,Promise to Pay,2025-04-30,True
+C-FK-8212,L-FK-2024-1157,2025-04-15,SMS,No Response,,False
+C-FK-8213,L-FK-2024-1157,2025-05-21,Field Visit,Promise to Pay,2025-06-03,False
+C-FK-8214,L-FK-2024-1158,2025-01-26,Phone Call,No Response,,False
+C-FK-8215,L-FK-2024-1158,2025-02-06,WhatsApp,Disputed,,False
+C-FK-8216,L-FK-2024-1158,2025-02-17,Phone Call,Promise to Pay,2025-02-26,True
+C-FK-8217,L-FK-2024-1167,2025-03-07,WhatsApp,Requested Extension,,False
+C-FK-8218,L-FK-2024-1167,2025-03-20,Email,Requested Extension,,False
+C-FK-8219,L-FK-2024-1169,2025-02-17,Field Visit,Disputed,,False
+C-FK-8220,L-FK-2024-1169,2025-02-25,Field Visit,Requested Extension,,False
+C-FK-8221,L-FK-2024-1172,2024-09-16,Phone Call,No Response,,False
+C-FK-8222,L-FK-2024-1172,2024-09-22,SMS,No Response,,False
+C-FK-8223,L-FK-2024-1172,2024-09-26,SMS,Disputed,,False
+C-FK-8224,L-FK-2024-1172,2024-10-01,Field Visit,Requested Extension,,False
+C-FK-8225,L-FK-2024-1172,2024-10-10,WhatsApp,Requested Extension,,False
+C-FK-8226,L-FK-2024-1176,2025-01-25,Email,Requested Extension,,False
+C-FK-8227,L-FK-2024-1176,2025-01-29,WhatsApp,Requested Extension,,False
+C-FK-8228,L-FK-2024-1176,2025-02-08,SMS,Already Paid,,False
+C-FK-8229,L-FK-2024-1178,2024-06-05,Email,Disputed,,False
+C-FK-8230,L-FK-2024-1178,2024-06-19,WhatsApp,Promise to Pay,2024-06-30,False
+C-FK-8231,L-FK-2024-1178,2024-07-01,Field Visit,Promise to Pay,2024-07-15,False
+C-FK-8232,L-FK-2024-1178,2024-07-11,WhatsApp,Promise to Pay,2024-07-20,True
+C-FK-8233,L-FK-2024-1179,2024-06-12,SMS,Requested Extension,,False
+C-FK-8234,L-FK-2024-1179,2024-06-16,Phone Call,Disputed,,False
+C-FK-8235,L-FK-2024-1179,2024-07-04,Field Visit,No Response,,False
+C-FK-8236,L-FK-2024-1179,2024-07-09,WhatsApp,No Response,,False
+C-FK-8237,L-FK-2024-1181,2024-06-19,SMS,Disputed,,False
+C-FK-8238,L-FK-2024-1182,2024-10-24,Email,No Response,,False
+C-FK-8239,L-FK-2024-1182,2024-10-30,Phone Call,Already Paid,,False
+C-FK-8240,L-FK-2024-1184,2024-08-20,Field Visit,Disputed,,False
+C-FK-8241,L-FK-2024-1186,2024-10-11,Field Visit,Disputed,,False
+C-FK-8242,L-FK-2024-1186,2024-10-18,WhatsApp,Requested Extension,,False
+C-FK-8243,L-FK-2024-1186,2024-11-04,Phone Call,No Response,,False
+C-FK-8244,L-FK-2024-1186,2024-10-26,Email,Disputed,,False
+C-FK-8245,L-FK-2024-1189,2024-12-10,Field Visit,Requested Extension,,False
+C-FK-8246,L-FK-2024-1189,2024-12-22,Email,Already Paid,,False
+C-FK-8247,L-FK-2024-1190,2024-09-19,Field Visit,No Response,,False
+C-FK-8248,L-FK-2024-1190,2024-10-03,Email,Promise to Pay,2024-10-16,False
+C-FK-8249,L-FK-2024-1190,2024-10-13,Phone Call,Disputed,,False
+C-FK-8250,L-FK-2024-1190,2024-10-31,SMS,Disputed,,False
+C-FK-8251,L-FK-2024-1190,2024-11-10,Email,Requested Extension,,False
+C-FK-8252,L-FK-2024-1191,2024-08-23,Email,Disputed,,False
+C-FK-8253,L-FK-2024-1191,2024-09-03,WhatsApp,Disputed,,False
+C-FK-8254,L-FK-2024-1191,2024-09-10,SMS,Requested Extension,,False
+C-FK-8255,L-FK-2024-1191,2024-09-13,WhatsApp,No Response,,False
+C-FK-8256,L-FK-2024-1192,2024-11-26,Phone Call,No Response,,False
+C-FK-8257,L-FK-2024-1192,2024-11-30,Phone Call,Promise to Pay,2024-12-04,False
+C-FK-8258,L-FK-2024-1192,2024-12-04,Field Visit,Disputed,,False
+C-FK-8259,L-FK-2024-1192,2024-12-26,Email,No Response,,False
+C-FK-8260,L-FK-2024-1196,2025-04-06,Field Visit,Promise to Pay,2025-04-16,False
+C-FK-8261,L-FK-2024-1196,2025-04-20,Email,No Response,,False
+C-FK-8262,L-FK-2024-1196,2025-04-12,SMS,Requested Extension,,False
+C-FK-8263,L-FK-2024-1196,2025-05-18,Email,No Response,,False
+C-FK-8264,L-FK-2024-1196,2025-06-01,WhatsApp,Requested Extension,,False
+C-FK-8265,L-FK-2024-1197,2024-10-08,Field Visit,Requested Extension,,False
+C-FK-8266,L-FK-2024-1197,2024-10-11,Email,Requested Extension,,False
+C-FK-8267,L-FK-2024-1200,2025-04-02,SMS,Promise to Pay,2025-04-07,False
+C-FK-8268,L-FK-2024-1200,2025-04-13,Phone Call,Disputed,,False
+C-FK-8269,L-FK-2024-1202,2024-10-04,WhatsApp,Promise to Pay,2024-10-12,True
+C-FK-8270,L-FK-2024-1202,2024-10-17,Phone Call,Promise to Pay,2024-10-28,True
+C-FK-8271,L-FK-2024-1202,2024-10-18,Email,Disputed,,False
+C-FK-8272,L-FK-2024-1202,2024-10-25,SMS,Disputed,,False
+C-FK-8273,L-FK-2024-1205,2025-04-02,Email,Requested Extension,,False
+C-FK-8274,L-FK-2024-1209,2024-09-25,Phone Call,Requested Extension,,False
+C-FK-8275,L-FK-2024-1209,2024-10-05,Email,Requested Extension,,False
+C-FK-8276,L-FK-2024-1210,2024-11-19,Email,Requested Extension,,False
+C-FK-8277,L-FK-2024-1212,2024-09-09,Phone Call,No Response,,False
+C-FK-8278,L-FK-2024-1212,2024-09-17,Phone Call,Promise to Pay,2024-09-26,False
+C-FK-8279,L-FK-2024-1212,2024-09-27,SMS,Already Paid,,False
+C-FK-8280,L-FK-2024-1214,2024-08-14,Email,Promise to Pay,2024-08-23,False
+C-FK-8281,L-FK-2024-1216,2024-12-19,SMS,Disputed,,False
+C-FK-8282,L-FK-2024-1217,2024-11-24,WhatsApp,Disputed,,False
+C-FK-8283,L-FK-2024-1217,2024-12-03,Phone Call,Promise to Pay,2024-12-14,True
+C-FK-8284,L-FK-2024-1217,2024-12-14,SMS,Already Paid,,False
+C-FK-8285,L-FK-2024-1217,2024-12-09,Email,Disputed,,False
+C-FK-8286,L-FK-2024-1223,2024-08-16,Phone Call,Promise to Pay,2024-08-20,False
+C-FK-8287,L-FK-2024-1224,2025-01-26,Phone Call,Disputed,,False
+C-FK-8288,L-FK-2024-1224,2025-01-31,WhatsApp,Promise to Pay,2025-02-10,True
+C-FK-8289,L-FK-2024-1227,2025-01-29,Email,Requested Extension,,False
+C-FK-8290,L-FK-2024-1236,2024-06-21,Email,Requested Extension,,False
+C-FK-8291,L-FK-2024-1236,2024-06-26,Phone Call,No Response,,False
+C-FK-8292,L-FK-2024-1237,2025-02-26,Field Visit,Disputed,,False
+C-FK-8293,L-FK-2024-1238,2025-03-03,WhatsApp,Promise to Pay,2025-03-06,True
+C-FK-8294,L-FK-2024-1241,2024-07-12,Email,No Response,,False
+C-FK-8295,L-FK-2024-1241,2024-07-22,WhatsApp,Disputed,,False
+C-FK-8296,L-FK-2024-1241,2024-08-01,Email,No Response,,False
+C-FK-8297,L-FK-2024-1241,2024-07-30,SMS,Requested Extension,,False
+C-FK-8298,L-FK-2024-1243,2024-12-10,Phone Call,Disputed,,False
+C-FK-8299,L-FK-2024-1243,2024-12-17,SMS,Promise to Pay,2024-12-30,True
+C-FK-8300,L-FK-2024-1243,2024-12-30,Field Visit,No Response,,False
+C-FK-8301,L-FK-2024-1243,2025-01-15,Field Visit,Promise to Pay,2025-01-21,True
+C-FK-8302,L-FK-2024-1243,2025-01-31,Email,Promise to Pay,2025-02-06,False
+C-FK-8303,L-FK-2024-1245,2025-01-21,SMS,Promise to Pay,2025-01-30,False
+C-FK-8304,L-FK-2024-1249,2024-12-06,Email,Already Paid,,False
+C-FK-8305,L-FK-2024-1250,2024-12-14,Email,Promise to Pay,2024-12-20,False
+C-FK-8306,L-FK-2024-1250,2024-12-17,Email,Requested Extension,,False
+C-FK-8307,L-FK-2024-1250,2025-01-09,WhatsApp,No Response,,False
+C-FK-8308,L-FK-2024-1250,2024-12-26,WhatsApp,Disputed,,False
+C-FK-8309,L-FK-2024-1250,2025-01-11,Email,Disputed,,False
+C-FK-8310,L-FK-2024-1251,2024-10-27,WhatsApp,Promise to Pay,2024-10-30,False
+C-FK-8311,L-FK-2024-1251,2024-11-02,Email,Disputed,,False
+C-FK-8312,L-FK-2024-1256,2024-08-13,Email,No Response,,False
+C-FK-8313,L-FK-2024-1256,2024-08-18,Email,Disputed,,False
+C-FK-8314,L-FK-2024-1256,2024-08-29,WhatsApp,Disputed,,False
+C-FK-8315,L-FK-2024-1260,2024-08-26,Field Visit,No Response,,False
+C-FK-8316,L-FK-2024-1261,2024-11-29,Field Visit,Disputed,,False
+C-FK-8317,L-FK-2024-1261,2024-12-10,WhatsApp,Requested Extension,,False
+C-FK-8318,L-FK-2024-1263,2024-11-10,Phone Call,Promise to Pay,2024-11-22,False
+C-FK-8319,L-FK-2024-1263,2024-11-15,Phone Call,Requested Extension,,False
+C-FK-8320,L-FK-2024-1266,2024-09-28,Phone Call,Promise to Pay,2024-10-04,True
+C-FK-8321,L-FK-2024-1270,2024-08-29,WhatsApp,Requested Extension,,False
+C-FK-8322,L-FK-2024-1271,2025-02-27,Phone Call,Promise to Pay,2025-03-10,True
+C-FK-8323,L-FK-2024-1271,2025-03-04,WhatsApp,Promise to Pay,2025-03-13,True
+C-FK-8324,L-FK-2024-1271,2025-03-21,WhatsApp,Disputed,,False
+C-FK-8325,L-FK-2024-1273,2024-09-10,Email,No Response,,False
+C-FK-8326,L-FK-2024-1273,2024-09-14,Email,Already Paid,,False
+C-FK-8327,L-FK-2024-1273,2024-10-02,Phone Call,Requested Extension,,False
+C-FK-8328,L-FK-2024-1273,2024-09-25,WhatsApp,Requested Extension,,False
+C-FK-8329,L-FK-2024-1275,2024-07-03,Phone Call,Requested Extension,,False
+C-FK-8330,L-FK-2024-1275,2024-07-17,Email,Promise to Pay,2024-07-31,True
+C-FK-8331,L-FK-2024-1286,2024-08-17,SMS,No Response,,False
+C-FK-8332,L-FK-2024-1286,2024-08-27,Email,Requested Extension,,False
+C-FK-8333,L-FK-2024-1286,2024-09-08,Email,Already Paid,,False
+C-FK-8334,L-FK-2024-1286,2024-09-22,SMS,Disputed,,False
+C-FK-8335,L-FK-2024-1286,2024-09-06,SMS,No Response,,False
+C-FK-8336,L-FK-2024-1288,2024-08-04,Field Visit,No Response,,False
+C-FK-8337,L-FK-2024-1288,2024-08-14,Field Visit,Requested Extension,,False
+C-FK-8338,L-FK-2024-1288,2024-08-18,SMS,Disputed,,False
+C-FK-8339,L-FK-2024-1288,2024-08-25,Field Visit,Disputed,,False
+C-FK-8340,L-FK-2024-1288,2024-08-20,SMS,Promise to Pay,2024-08-26,False
+C-FK-8341,L-FK-2024-1289,2024-06-17,WhatsApp,Promise to Pay,2024-06-24,True
+C-FK-8342,L-FK-2024-1289,2024-06-20,Phone Call,Promise to Pay,2024-06-26,True
+C-FK-8343,L-FK-2024-1289,2024-07-13,Field Visit,Disputed,,False
+C-FK-8344,L-FK-2024-1293,2024-11-20,WhatsApp,Requested Extension,,False
+C-FK-8345,L-FK-2024-1293,2024-12-04,WhatsApp,Promise to Pay,2024-12-13,True
+C-FK-8346,L-FK-2024-1293,2024-12-06,Phone Call,No Response,,False
+C-FK-8347,L-FK-2024-1294,2024-07-12,SMS,Disputed,,False
+C-FK-8348,L-FK-2024-1294,2024-07-19,Field Visit,No Response,,False
+C-FK-8349,L-FK-2024-1294,2024-08-07,Phone Call,Requested Extension,,False
+C-FK-8350,L-FK-2024-1296,2024-09-19,Field Visit,Disputed,,False
+C-FK-8351,L-FK-2024-1296,2024-09-30,WhatsApp,Promise to Pay,2024-10-10,False
+C-FK-8352,L-FK-2024-1296,2024-10-01,Email,Requested Extension,,False
+C-FK-8353,L-FK-2024-1296,2024-10-04,SMS,Already Paid,,False
+C-FK-8354,L-FK-2024-1297,2024-12-04,Phone Call,Already Paid,,False
+C-FK-8355,L-FK-2024-1297,2024-12-14,SMS,Promise to Pay,2024-12-24,False
+C-FK-8356,L-FK-2024-1297,2024-12-16,Email,Requested Extension,,False
+C-FK-8357,L-FK-2024-1297,2025-01-15,WhatsApp,Promise to Pay,2025-01-28,False
+C-FK-8358,L-FK-2024-1298,2024-08-31,Field Visit,Already Paid,,False
+C-FK-8359,L-FK-2024-1298,2024-09-06,SMS,No Response,,False
+C-FK-8360,L-FK-2024-1299,2024-11-04,Email,Already Paid,,False
+C-FK-8361,L-FK-2024-1300,2025-03-08,Phone Call,Promise to Pay,2025-03-22,True
+C-FK-8362,L-FK-2024-1301,2024-10-31,Phone Call,Already Paid,,False
+C-FK-8363,L-FK-2024-1301,2024-11-04,Phone Call,No Response,,False
+C-FK-8364,L-FK-2024-1301,2024-11-10,SMS,Promise to Pay,2024-11-25,False
+C-FK-8365,L-FK-2024-1301,2024-12-09,Phone Call,Requested Extension,,False
+C-FK-8366,L-FK-2024-1301,2024-11-12,Field Visit,No Response,,False
+C-FK-8367,L-FK-2024-1302,2024-09-12,SMS,No Response,,False
+C-FK-8368,L-FK-2024-1302,2024-09-17,Field Visit,Already Paid,,False
+C-FK-8369,L-FK-2024-1302,2024-10-02,SMS,Promise to Pay,2024-10-09,False
+C-FK-8370,L-FK-2024-1307,2025-01-19,Field Visit,Disputed,,False
+C-FK-8371,L-FK-2024-1307,2025-01-23,Phone Call,No Response,,False
+C-FK-8372,L-FK-2024-1308,2025-01-22,Field Visit,No Response,,False
+C-FK-8373,L-FK-2024-1311,2024-12-05,Email,Promise to Pay,2024-12-08,False
+C-FK-8374,L-FK-2024-1311,2024-12-10,WhatsApp,Disputed,,False
+C-FK-8375,L-FK-2024-1311,2024-12-17,Phone Call,Already Paid,,False
+C-FK-8376,L-FK-2024-1311,2025-01-04,WhatsApp,Promise to Pay,2025-01-08,False
+C-FK-8377,L-FK-2024-1313,2025-03-02,Phone Call,Disputed,,False
+C-FK-8378,L-FK-2024-1313,2025-03-10,Phone Call,No Response,,False
+C-FK-8379,L-FK-2024-1313,2025-03-26,WhatsApp,Promise to Pay,2025-03-31,False
+C-FK-8380,L-FK-2024-1316,2024-11-26,SMS,Already Paid,,False
+C-FK-8381,L-FK-2024-1316,2024-12-09,Field Visit,Disputed,,False
+C-FK-8382,L-FK-2024-1316,2024-12-10,Phone Call,Disputed,,False
+C-FK-8383,L-FK-2024-1316,2024-12-17,WhatsApp,Already Paid,,False
+C-FK-8384,L-FK-2024-1316,2024-12-24,Phone Call,No Response,,False
+C-FK-8385,L-FK-2024-1318,2025-03-08,Email,Promise to Pay,2025-03-16,False
+C-FK-8386,L-FK-2024-1318,2025-03-22,Phone Call,Already Paid,,False
+C-FK-8387,L-FK-2024-1320,2024-08-04,SMS,Disputed,,False
+C-FK-8388,L-FK-2024-1321,2025-02-18,WhatsApp,Promise to Pay,2025-03-05,False
+C-FK-8389,L-FK-2024-1324,2024-07-19,Field Visit,Already Paid,,False
+C-FK-8390,L-FK-2024-1324,2024-08-01,SMS,Disputed,,False
+C-FK-8391,L-FK-2024-1324,2024-08-14,Email,Promise to Pay,2024-08-23,False
+C-FK-8392,L-FK-2024-1324,2024-08-21,Email,Requested Extension,,False
+C-FK-8393,L-FK-2024-1330,2024-10-12,Phone Call,Already Paid,,False
+C-FK-8394,L-FK-2024-1330,2024-10-24,Field Visit,Already Paid,,False
+C-FK-8395,L-FK-2024-1330,2024-11-05,WhatsApp,Promise to Pay,2024-11-19,False
+C-FK-8396,L-FK-2024-1330,2024-10-21,Email,Promise to Pay,2024-10-24,False
+C-FK-8397,L-FK-2024-1330,2024-11-01,Phone Call,No Response,,False
+C-FK-8398,L-FK-2024-1331,2024-10-25,Email,Disputed,,False
+C-FK-8399,L-FK-2024-1331,2024-10-30,Email,Requested Extension,,False
+C-FK-8400,L-FK-2024-1331,2024-11-06,SMS,Promise to Pay,2024-11-12,False
+C-FK-8401,L-FK-2024-1334,2024-12-15,Email,Promise to Pay,2024-12-24,True
+C-FK-8402,L-FK-2024-1337,2024-09-25,Field Visit,No Response,,False
+C-FK-8403,L-FK-2024-1337,2024-09-29,Field Visit,Already Paid,,False
+C-FK-8404,L-FK-2024-1337,2024-10-05,SMS,No Response,,False
