@@ -1,10 +1,19 @@
-# FatakPay Fintech Analytics Project
+# FatakPay Fintech Analytics Dashboard
 
 ## Overview
-End-to-end Data Analytics project analyzing loan disbursement,
-repayment behavior and default risk for a fintech lending company
-modelled on FatakPay's business (FY 2024-25).
+An end-to-end fintech analytics project analyzing loan disbursement, 
+repayment behavior and default risk to identify high-risk customer segments 
+and improve lending decisions for a fintech lending company (FY 2024-25).
 
+## Dashboard Preview
+
+
+## What I Did
+- Cleaned and transformed raw loan data using Python
+- Performed EDA to identify trends and anomalies
+- Built SQL database for structured analysis
+- Designed Power BI dashboard
+ 
 ## Tech Stack
 - Python (Pandas, NumPy, Seaborn, Matplotlib)
 - SQL (SQLite)
@@ -13,9 +22,9 @@ modelled on FatakPay's business (FY 2024-25).
 - Git & GitHub
 
 ## Project Structure
-- `PY notebooks/` — Jupyter notebooks for ETL, EDA, Analysis
+- `notebooks/` — Jupyter notebooks for ETL, EDA, Analysis
 - `data/processed/` — Cleaned datasets
-- `sql files/` — SQL queries and database
+- `sql/` — SQL queries and database
 - `docs/` — Project documentation
 - `Fintech_analysis.pbix` — Power BI dashboard
 
