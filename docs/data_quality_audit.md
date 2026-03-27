@@ -10,7 +10,7 @@ Tool used: Microsoft Excel
 
 
 
-TABLE: users\_copy.csv (200 rows, 10 columns)
+TABLE: users\.csv (200 rows, 10 columns)
 
 ----------------------------------------
 
