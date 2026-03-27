@@ -48,11 +48,11 @@ Issue 3: Wrong Data Type in Age
 
 
 
-TABLE: loans\_copy.csv — to be audited in Python
+TABLE: loans.csv — to be audited in Python
 
-TABLE: repayments\_copy.csv — to be audited in Python
+TABLE: repayments.csv — to be audited in Python
 
-TABLE: collections\_copy.csv — to be audited in Python
+TABLE: collections.csv — to be audited in Python
 
 
 
