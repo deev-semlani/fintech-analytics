@@ -54,12 +54,7 @@ TABLE: repayments.csv — to be audited in Python
 
 TABLE: collections.csv — to be audited in Python
 
-
-
-
-
-
-
+-----------------------------------------------------------
 
 Travel and Electronics Purchase loans have the highest default rates (27 and 16 respectively) as they are non-productive expenditures with zero financial return. Education loans have the lowest default rate as borrowers have strong motivation to maintain good credit for future opportunities
 
