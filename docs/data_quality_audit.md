@@ -58,6 +58,6 @@ TABLE: collections.csv — to be audited in Python
 
 Travel and Electronics Purchase loans have the highest default rates (27 and 16 respectively) as they are non-productive expenditures with zero financial return. Education loans have the lowest default rate as borrowers have strong motivation to maintain good credit for future opportunities
 
-Kolkata has the highest default rate at 61.1% despite having the lowest loan volume (18 loans), suggesting high-risk borrower profiles in that market. Mumbai despite highest volume (66 loans) has the lowest default rate at 31.8% — indicating a more creditworthy customer base.
+Kolkata has the highest default rate at 61.1% despite having the lowest loan volume (18 loans), suggesting high-risk borrower profiles in that market. Mumbai despite highest volume (66 loans) has the lowest default rate at 31.8%, indicating a more creditworthy customer base.
 
-UPI dominates payments at 26.7% reflecting FatakPay's digital-first customer base. However 34.5% of all EMIs remain unpaid — a critical risk signal. Cash payments at 9.3% suggest a segment of financially underserved customers who lack digital payment access
+UPI dominates payments at 26.7% reflecting FatakPay's digital-first customer base. However 34.5% of all EMIs remain unpaid, a critical risk signal. Cash payments at 9.3% suggest a segment of financially underserved customers who lack digital payment access
