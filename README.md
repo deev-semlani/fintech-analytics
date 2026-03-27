@@ -1,4 +1,4 @@
-# FatakPay Fintech Analytics Dashboard
+# Fintech Analytics Dashboard
 
 ## Overview
 An end-to-end fintech analytics project analyzing loan disbursement, 
@@ -32,11 +32,12 @@ and improve lending decisions for a fintech lending company (FY 2024-25).
 - Git & GitHub
 
 ## Project Structure
-- `notebooks/` — Jupyter notebooks for ETL, EDA, Analysis
-- `data/processed/` — Cleaned datasets
-- `sql/` — SQL queries and database
-- `docs/` — Project documentation
-- `Fintech_analysis.pbix` — Power BI dashboard
+- `notebooks/` - Jupyter notebooks for ETL, EDA, Analysis
+- `data/raw/` - Raw messy datasets
+- `data/processed/` - Cleaned datasets
+- `sql/` - SQL queries and database
+- `docs/` - Project documentation
+- `Fintech_analysis.pbix` - Power BI dashboard
 
 ## Key Findings
 - 41.4% overall default rate across 338 loans
@@ -45,6 +46,11 @@ and improve lending decisions for a fintech lending company (FY 2024-25).
 - Daily Wage Workers have highest risk (57.63%)
 - 3-month tenure loans default most (44.79%)
 - UPI is dominant payment mode (26.7%)
+
+## Business outcomes
+- Identified key financial trends and patterns from historical data
+- Enabled easier monitoring of KPIs through interactive dashboards
+- Simplified complex data into actionable visual insights
 
 ## How to Run
 1. Clone repository
